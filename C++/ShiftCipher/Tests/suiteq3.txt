@@ -1,0 +1,8 @@
+zero
+onew
+tenw
+tenwl
+tenwr
+tenwc
+highw
+highwr
