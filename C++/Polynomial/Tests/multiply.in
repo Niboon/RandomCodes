@@ -1,0 +1,37 @@
+create a 2/1 1 1/1 0
+print a
+create b 3/1 2 1/1 1
+print b
+add a b
+subtract a b
+multiply a b
+
+create a 0/1 0
+print a
+create b 3/1 2 1/1 1 1/2 0
+print b
+add a b
+subtract a b
+multiply a b
+
+create a 1/1 0
+print a
+create b 3/1 2 1/1 1 1/2 0
+print b
+add a b
+subtract a b
+multiply a b
+
+create c 2/3 4 -1/9 3 12/4 2 -7/3 0
+print c
+create d 3/2 4 -9/7 2 3/6 1 2/1 0
+print d
+multiply c d
+multiply d c
+
+create c 2/-3 40 -1/9 30 12/4 20 -7/3 0
+print c
+create d 3/2 40 -9/7 20 3/6 1 2/-1 0
+print d
+multiply c d
+multiply d c
